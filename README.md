@@ -3,9 +3,9 @@
 A wearable + mobile solution designed to help users manage sudden anxiety attacks in real-time through real-time heart rate monitoring and guided calming exercises.
 
 ## 🔗 Project Links
-- 📽 [Report](#) *([placeholder - add actual link here](https://docs.google.com/document/d/17EECCA8CGA_3XYFfYgVaEyjSRTyOIbUKf5lqNq9gi8o/edit?usp=sharing))*
-- 📽 [Presentation PPT](#) *([placeholder - add actual link here](https://www.canva.com/design/DAGlmHqXhrI/9lS_EJJ4aRYE1IfZ9pcZ8g/edit?utm_content=DAGlmHqXhrI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))*
-- 📽 [Demo Video](#) *([placeholder - add actual link here](https://drive.google.com/file/d/1RmycXRFCE5LvhbBxSdEUuRtrYTifZ5yh/view?usp=drive_link))* 
+- 📽 [Report](#) *(https://docs.google.com/document/d/17EECCA8CGA_3XYFfYgVaEyjSRTyOIbUKf5lqNq9gi8o/edit?usp=sharing)*
+- 📽 [Presentation PPT](#) *(https://www.canva.com/design/DAGlmHqXhrI/9lS_EJJ4aRYE1IfZ9pcZ8g/edit?utm_content=DAGlmHqXhrI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*
+- 📽 [Demo Video](#) *((https://drive.google.com/file/d/1RmycXRFCE5LvhbBxSdEUuRtrYTifZ5yh/view?usp=drive_link)* 
 
 ---
 
